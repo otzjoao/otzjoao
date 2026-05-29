@@ -1,19 +1,19 @@
-## Bem-vindo(a) ao perfil de João Ortiz 😁
+## Bem-vindo(a) ao perfil de João Ortiz <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
- <div>
-   <a href="https://github.com/otzjoao">
-   <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=otzjoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otzjoao&layout=compact&langs_count=6&theme=dark"/>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,md,git,github,vscode,discord,bash,postman&perline=13)](#)
 
-<div style="display: inline-block;"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" whidth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![João's github stats](https://github-readme-mwendwa.vercel.app/api?username=otzjoao&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
-<br>
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=otzjoao&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![João Ortiz's current streak](https://streak-stats.demolab.com/?user=otzjoao&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
  
 ### Sinta-se a vontade para entrar em contato comigo nas redes abaixo:
  
