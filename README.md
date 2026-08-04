@@ -17,10 +17,25 @@
  
 ### Sinta-se a vontade para entrar em contato comigo nas redes abaixo:
  
-<div> 
- 
-  <a href="https://www.instagram.com/otzjoao/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/sY5UTYVZ" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ortizjoaovictor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otzjoao/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  <!-- Instagram -->
+<a href="https://instagram.com/otzjoao/" target="_blank" rel="noopener noreferrer">
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<!-- Discord -->
+<a href="https://discord.gg/sY5UTYVZ" target="_blank" rel="noopener noreferrer">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<!-- Gmail (Sem target="_blank" pois abre o aplicativo de e-mail local) -->
+<a href="mailto:ortizjoaovictor@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/otzjoao/" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
