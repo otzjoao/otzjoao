@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil de João Ortiz <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Welcome for Ortiz's profile <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,html,css,js,python,md,bash,git,github,aws,vscode,discord,notion,obsidian&perline=5)](#)
@@ -15,7 +15,7 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
  
-### Sinta-se a vontade para entrar em contato comigo nas redes abaixo:
+### Feel free to contact me via the social media channels below:
  
 <div>
   <!-- Instagram -->
