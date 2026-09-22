@@ -1,7 +1,7 @@
 # Welcome for Ortiz's profile <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,html,css,js,python,md,bash,git,github,aws,vscode,discord,notion,obsidian&perline=5)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,html,python,md,git,github,vscode,discord,notion,obsidian&perline=5)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
