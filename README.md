@@ -12,15 +12,6 @@
 
 **João V. Ortiz** · Frontend or full-stack engineer
 
-## Operating principles
-
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = MS. Brazil
-PUBLIC_REPOS = 17
-COMMUNITY   = 55 followers</code></pre>
-
-Trying a bit of everything.
-
 ## Uptime in motion
 
 <p align="center">
