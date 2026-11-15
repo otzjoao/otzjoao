@@ -1,4 +1,0 @@
-env:
-  GITHUB_LOGIN: otzjoao          # <- change this to your username
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  OUT_PATH: assets/profile.svg
