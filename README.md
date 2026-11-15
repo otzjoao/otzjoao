@@ -1,12 +1,10 @@
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/otzjoao/otzjoao/main/assets/profile.svg"
-    alt="Animated ASCII Profile Card"
+    src="https://raw.githubusercontent.com/otzjoao/ascii-profile-card/main/assets/profile.svg"
+    alt="ASCII Profile Card"
     width="100%"
   />
 </p>
-
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=otzjoao&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196572079%3Fu%3De17c0b460a3ba58d4c3065b92e9364cb891ed89e%26v%3D4" alt="otzjoao hero visual" />
